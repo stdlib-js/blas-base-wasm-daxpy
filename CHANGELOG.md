@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-02-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`841ab2e`](https://github.com/stdlib-js/stdlib/commit/841ab2eab4f9ee75fc3c99b0dfc186051061e0bf) - **bench:** refactor to use string interpolation in `blas/base/wasm/daxpy` [(#10505)](https://github.com/stdlib-js/stdlib/pull/10505) _(by Shubham)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Shubham
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
